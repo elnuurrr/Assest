@@ -1,0 +1,31 @@
+.ylanguage{
+    background-color: yellow;
+}
+.Coding{
+    border: 5px solid purple;
+    color: red;
+}
+.dispan{
+    background-color: blueviolet;
+}
+.span1{
+    background-color: green;
+}
+.link{
+    background-color: yellow;
+}
+.ylanguage:hover{
+    background-color: green;
+}
+.Coding:hover{
+    color: yellow;
+}
+.dispan:hover{
+    background-color: blue;
+}
+.span1:hover{
+    background-color: purple;
+}
+a:hover{
+    color: white;
+}

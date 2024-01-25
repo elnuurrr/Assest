@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+}
+.span{
+    background-color: darkred;
+    color: white;
+}
+.links1{
+    background-color: orange;
+}
+.links2{
+    background-color: yellow;
+}
+.link2{
+    background-color: brown;
+    color: blue;
+}
+.link1{
+    color: black;
+}
+span:hover, section:hover{
+    background-color: yellow;
+}
+li:hover{
+    background-color: blue;
+}
+a{
+    color: red;
+}
+a:hover{
+    color: white;  
+}
+#links1:hover, #links2:hover{
+    background-color: white;
+}
